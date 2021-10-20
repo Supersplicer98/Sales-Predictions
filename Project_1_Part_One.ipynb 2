@@ -37,7 +37,7 @@
         "import pandas as pd\n",
         "filename = '/content/sales_predictions (4).csv'"
       ],
-      "execution_count": 1,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -55,7 +55,7 @@
         "df.head = pd.read_csv(filename)\n",
         "df.head"
       ],
-      "execution_count": 10,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
